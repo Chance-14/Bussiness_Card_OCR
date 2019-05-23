@@ -1,9 +1,9 @@
 # Bussiness_Card_OCR
 ## Description
-  This is my response to the programming challenge from Asymmetrik. I choose to do the business card OCR challenge,
-  I thought about doing the particle system but decided i didn't know enough about javascript to attempt that at this point. 
-  Program takes in a text file, the business card, and parses the data given to find the Name, Phone number, and email address
-  of the person.
+  This is my response to the programming challenge from Asymmetrik. (https://asymmetrik.com/programming-challenges/) 
+  I choose to do the business card OCR challenge, I thought about doing the particle system but decided i didn't know 
+  enough about javascript to attempt that at this point. This program takes in a text file, the business card, and parses 
+  the data given to find the Name, Phone number, and email address of the person.
 
 ## Instructions 
   Download files required (BusinessCardParser.java and ConactInfo.java). You can also download the card files if you so
